@@ -1,17 +1,9 @@
 track type=bigWig bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135ee416897df8325e1/display?to_ext=bigwig shortLabel="H1 Flag CPM" longLabel="Human 1 Flag CPM-normalized coverage" maxHeightPixels=100:50:20 autoScale=on visibility=full
-
 track type=bigWig bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a4721353ad62167c152dbda/display?to_ext=bigwig shortLabel="H2 Flag CPM" longLabel="Human 2 Flag CPM-normalized coverage" maxHeightPixels=100:50:20 autoScale=on visibility=full
-
 track type=bigWig bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a4721352c816c787eccf57a/display?to_ext=bigwig shortLabel="H3 Flag CPM" longLabel="Human 3 Flag CPM-normalized coverage" maxHeightPixels=100:50:20 autoScale=on visibility=full
-
 track type=bigWig bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135871b72837a410e8b/display?to_ext=bigwig shortLabel="H4 Flag CPM" longLabel="Human 4 Flag CPM-normalized coverage" maxHeightPixels=100:50:20 autoScale=on visibility=full
-
 track type=bigWig bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a47213559ecc0284467e36e/display?to_ext=bigwig shortLabel="H4 IgG CPM" longLabel="Human 4 IgG CPM-normalized coverage" maxHeightPixels=100:50:20 autoScale=on visibility=full
-
 track type=bigWig bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a47213536fc7b486a05ea62/display?to_ext=bigwig shortLabel="H5 Flag CPM" longLabel="Human 5 Flag CPM-normalized coverage" maxHeightPixels=100:50:20 autoScale=on visibility=full
-
 track type=bigWig bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a4721356361a7fa592b5d02/display?to_ext=bigwig shortLabel="H5 IgG CPM" longLabel="Human 5 IgG CPM-normalized coverage" maxHeightPixels=100:50:20 autoScale=on visibility=full
-
 track type=bigWig bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a4721355f55edd51c84bdb0/display?to_ext=bigwig shortLabel="H7 Flag CPM" longLabel="Human 7 Flag CPM-normalized coverage" maxHeightPixels=100:50:20 autoScale=on visibility=full
-
 track type=bigWig bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a4721350e7431e6353eff8e/display?to_ext=bigwig shortLabel="H7 IgG CPM" longLabel="Human 7 IgG CPM-normalized coverage" maxHeightPixels=100:50:20 autoScale=on visibility=full
