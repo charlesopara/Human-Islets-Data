@@ -5,6 +5,6 @@ genomesFile genomes.txt
 hub chipseq_human_islets
 shortLabel Human Islet Cut and Run Data
 longLabel  …
-genomesFile https://uwmadison.box.com/s/b1d183tofne8t6m8hmw1h6hlg1scwy4i
+genomesFile https://raw.githubusercontent.com/charlesopara/Human-Islets-Data/refs/heads/main/genomes.txt
 email copara@wisc.edu
 
