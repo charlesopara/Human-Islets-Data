@@ -1,7 +1,6 @@
 hub chipseq_human_islets
 shortLabel Human Islet Cut and Run Data
 longLabel  …
-genomesFile genomes.txt
 hub chipseq_human_islets
 shortLabel Human Islet Cut and Run Data
 longLabel  …
