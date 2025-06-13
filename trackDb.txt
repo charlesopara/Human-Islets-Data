@@ -1,0 +1,152 @@
+# ==============================
+# hg38/trackDb.txt for chipseq_human_hub
+# ==============================
+
+# Coverage tracks (bigWig)
+
+track Human_1_Flag_CPM
+    type bigWig
+    bigDataUrl https://uwmadison.box.com/s/o2gffcxrlpwpt4yob3nxv7kc9r2c081g
+    shortLabel  H1_Flag_CPM
+    longLabel   Human_1 FLAG CPM-normalized coverage
+    visibility  full
+    autoScale   on
+
+track Human_2_Flag_CPM
+    type bigWig
+    bigDataUrl https://uwmadison.box.com/s/rmdwm8lg7l0arcqjpa80s9epmi2p9gpq
+    shortLabel  H2_Flag_CPM
+    longLabel   Human_2 FLAG CPM-normalized coverage
+    visibility  full
+    autoScale   on
+
+track Human_3_Flag_CPM
+    type bigWig
+    bigDataUrl https://uwmadison.box.com/s/13df69jzkzoop9fvo233niqf0yd3exmo
+    shortLabel  H3_Flag_CPM
+    longLabel   Human_3 FLAG CPM-normalized coverage
+    visibility  full
+    autoScale   on
+
+track Human_4_Flag_CPM
+    type bigWig
+    bigDataUrl https://uwmadison.box.com/s/jb7wueca1tjfjig8n7juoktzsiab4r6o
+    shortLabel  H4_Flag_CPM
+    longLabel   Human_4 FLAG CPM-normalized coverage
+    visibility  full
+    autoScale   on
+
+track Human_4_IgG_CPM
+    type bigWig
+    bigDataUrl https://uwmadison.box.com/s/6d7ps30laylk5twhcb6xj6oxjm7fr2yf
+    shortLabel  H4_IgG_CPM
+    longLabel   Human_4 IgG CPM-normalized coverage
+    visibility  full
+    autoScale   on
+
+track Human_5_Flag_CPM
+    type bigWig
+    bigDataUrl https://uwmadison.box.com/s/82nb1pucjl1dq6rjr24uea4dojgkbh38
+    shortLabel  H5_Flag_CPM
+    longLabel   Human_5 FLAG CPM-normalized coverage
+    visibility  full
+    autoScale   on
+
+track Human_5_IgG_CPM
+    type bigWig
+    bigDataUrl https://uwmadison.box.com/s/760ap6th2nt7pf4npqso2s8g6ym8r2uj
+    shortLabel  H5_IgG_CPM
+    longLabel   Human_5 IgG CPM-normalized coverage
+    visibility  full
+    autoScale   on
+
+track Human_7_Flag_CPM
+    type bigWig
+    bigDataUrl https://uwmadison.box.com/s/u9ql7h5rsx7zdqal2nmqbkj4x45yxt5x
+    shortLabel  H7_Flag_CPM
+    longLabel   Human_7 FLAG CPM-normalized coverage
+    visibility  full
+    autoScale   on
+
+track Human_7_IgG_CPM
+    type bigWig
+    bigDataUrl https://uwmadison.box.com/s/zytz8tz4qyg8804hd7vqjvzpeaalgk50
+    shortLabel  H7_IgG_CPM
+    longLabel   Human_7 IgG CPM-normalized coverage
+    visibility  full
+    autoScale   on
+
+
+# Peak calls (narrowPeak) 
+
+track Human_1_Flag_peaks
+    type bedNarrowPeak
+    bigDataUrl https://uwmadison.box.com/s/vgiohcirvqg7fu6htxxxuqz47f5dmkqd
+    shortLabel  H1_Flag_peaks
+    longLabel   Human_1 FLAG peak calls
+    visibility  dense
+    color       255,0,0
+
+track Human_2_Flag_peaks
+    type bedNarrowPeak
+    bigDataUrl https://uwmadison.box.com/s/bg97u6jzed7hiwwxopprmsnet1bs1ow4
+    shortLabel  H2_Flag_peaks
+    longLabel   Human_2 FLAG peak calls
+    visibility  dense
+    color       255,0,0
+
+track Human_3_Flag_peaks
+    type bedNarrowPeak
+    bigDataUrl https://uwmadison.box.com/s/lympfdzqhsd8p7oog4rmw8fapr00kctu
+    shortLabel  H3_Flag_peaks
+    longLabel   Human_3 FLAG peak calls
+    visibility  dense
+    color       255,0,0
+
+track Human_4_Flag_peaks
+    type bedNarrowPeak
+    bigDataUrl https://uwmadison.box.com/s/ahe5xzpa9r8ql82jkzbrlipornlunecb
+    shortLabel  H4_Flag_peaks
+    longLabel   Human_4 FLAG peak calls
+    visibility  dense
+    color       255,0,0
+
+track Human_4_IgG_peaks
+    type bedNarrowPeak
+    bigDataUrl https://uwmadison.box.com/s/tun4zbx34sek3nqx9knddunpialcmpb4
+    shortLabel  H4_IgG_peaks
+    longLabel   Human_4 IgG peak calls
+    visibility  dense
+    color       0,0,255
+
+track Human_5_Flag_peaks
+    type bedNarrowPeak
+    bigDataUrl https://uwmadison.box.com/s/4e8187n58lk88gcj4f5ixg46y5nhvjw8
+    shortLabel  H5_Flag_peaks
+    longLabel   Human_5 FLAG peak calls
+    visibility  dense
+    color       255,0,0
+
+track Human_5_IgG_peaks
+    type bedNarrowPeak
+    bigDataUrl https://uwmadison.box.com/s/4k8ye7tlbi5a1ifubtni00zmw0gkzjrg
+    shortLabel  H5_IgG_peaks
+    longLabel   Human_5 IgG peak calls
+    visibility  dense
+    color       0,0,255
+
+track Human_7_Flag_peaks
+    type bedNarrowPeak
+    bigDataUrl https://uwmadison.box.com/s/1ofrdhh55yp5cqwha28bkpnryjsode64
+    shortLabel  H7_Flag_peaks
+    longLabel   Human_7 FLAG peak calls
+    visibility  dense
+    color       255,0,0
+
+track Human_7_IgG_peaks
+    type bedNarrowPeak
+    bigDataUrl https://uwmadison.box.com/s/ewo6jqlr77odeavpnx2wwuiv5fl364l2
+    shortLabel  H7_IgG_peaks
+    longLabel   Human_7 IgG peak calls
+    visibility  dense
+    color       0,0,255
