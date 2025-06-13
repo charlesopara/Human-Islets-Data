@@ -1,2 +1,2 @@
 genome hg38
-trackDb https://raw.githubusercontent.com/charlesopara/Human-Islets-Data/refs/heads/main/trackDb.txt
+trackDb https://raw.githubusercontent.com/charlesopara/Human-Islets-Data/refs/heads/main/trackDb1.txt
